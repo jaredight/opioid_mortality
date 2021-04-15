@@ -1,0 +1,107 @@
+"Notes"	"Year"	"Year Code"	"MCD - Drug/Alcohol Induced"	"MCD - Drug/Alcohol Induced Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"Drug-induced causes"	"D"	37553	279040168	13.457919076
+	"1999"	"1999"	"Alcohol-induced causes"	"A"	35862	279040168	12.851913134
+	"1999"	"1999"	"All other non-drug and non-alcohol causes"	"O"	2387046	279040168	855.448882901
+	"2000"	"2000"	"Drug-induced causes"	"D"	46894	281421906	16.663237296
+	"2000"	"2000"	"Alcohol-induced causes"	"A"	38190	281421906	13.570372166
+	"2000"	"2000"	"All other non-drug and non-alcohol causes"	"O"	2399503	281421906	852.635473231
+	"2001"	"2001"	"Drug-induced causes"	"D"	49017	284968955	17.200821051
+	"2001"	"2001"	"Alcohol-induced causes"	"A"	38391	284968955	13.471993818
+	"2001"	"2001"	"All other non-drug and non-alcohol causes"	"O"	2412299	284968955	846.512912257
+	"2002"	"2002"	"Drug-induced causes"	"D"	54353	287625193	18.897162461
+	"2002"	"2002"	"Alcohol-induced causes"	"A"	39845	287625193	13.853098049
+	"2002"	"2002"	"All other non-drug and non-alcohol causes"	"O"	2439074	287625193	848.004298427
+	"2003"	"2003"	"Drug-induced causes"	"D"	114026	290107933	39.304681820
+	"2003"	"2003"	"Alcohol-induced causes"	"A"	40500	290107933	13.960321450
+	"2003"	"2003"	"All other non-drug and non-alcohol causes"	"O"	2443654	290107933	842.325811201
+	"2004"	"2004"	"Drug-induced causes"	"D"	150749	292805298	51.484382636
+	"2004"	"2004"	"Alcohol-induced causes"	"A"	41135	292805298	14.048584599
+	"2004"	"2004"	"All other non-drug and non-alcohol causes"	"O"	2392125	292805298	816.967799538
+	"2005"	"2005"	"Drug-induced causes"	"D"	191667	295516599	64.858285676
+	"2005"	"2005"	"Alcohol-induced causes"	"A"	42901	295516599	14.517289433
+	"2005"	"2005"	"All other non-drug and non-alcohol causes"	"O"	2442008	295516599	826.352228018
+	"2006"	"2006"	"Drug-induced causes"	"D"	208066	298379912	69.731906081
+	"2006"	"2006"	"Alcohol-induced causes"	"A"	44321	298379912	14.853881986
+	"2006"	"2006"	"All other non-drug and non-alcohol causes"	"O"	2420190	298379912	811.110233185
+	"2007"	"2007"	"Drug-induced causes"	"D"	226073	301231207	75.049661106
+	"2007"	"2007"	"Alcohol-induced causes"	"A"	45393	301231207	15.069155833
+	"2007"	"2007"	"All other non-drug and non-alcohol causes"	"O"	2416437	301231207	802.186806628
+	"2008"	"2008"	"Drug-induced causes"	"D"	251115	304093966	82.578093641
+	"2008"	"2008"	"Alcohol-induced causes"	"A"	47247	304093966	15.536973858
+	"2008"	"2008"	"All other non-drug and non-alcohol causes"	"O"	2464915	304093966	810.576754423
+	"2009"	"2009"	"Drug-induced causes"	"D"	248639	306771529	81.050220276
+	"2009"	"2009"	"Alcohol-induced causes"	"A"	48160	306771529	15.698979679
+	"2009"	"2009"	"All other non-drug and non-alcohol causes"	"O"	2430110	306771529	792.156302093
+	"2010"	"2010"	"Drug-induced causes"	"D"	272582	308745538	88.286943923
+	"2010"	"2010"	"Alcohol-induced causes"	"A"	50121	308745538	16.233756875
+	"2010"	"2010"	"All other non-drug and non-alcohol causes"	"O"	2460990	308745538	797.093300827
+	"2011"	"2011"	"Drug-induced causes"	"D"	292061	311591917	93.731892281
+	"2011"	"2011"	"Alcohol-induced causes"	"A"	52235	311591917	16.763913680
+	"2011"	"2011"	"All other non-drug and non-alcohol causes"	"O"	2507780	311591917	804.828322938
+	"2012"	"2012"	"Drug-induced causes"	"D"	312024	313914040	99.397911607
+	"2012"	"2012"	"Alcohol-induced causes"	"A"	54306	313914040	17.299640373
+	"2012"	"2012"	"All other non-drug and non-alcohol causes"	"O"	2535376	313914040	807.665690901
+	"2013"	"2013"	"Drug-induced causes"	"D"	325050	316128839	102.822001633
+	"2013"	"2013"	"Alcohol-induced causes"	"A"	57086	316128839	18.057827366
+	"2013"	"2013"	"All other non-drug and non-alcohol causes"	"O"	2588864	316128839	818.926867979
+	"2014"	"2014"	"Drug-induced causes"	"D"	337671	318857056	105.900432073
+	"2014"	"2014"	"Alcohol-induced causes"	"A"	60442	318857056	18.955829536
+	"2014"	"2014"	"All other non-drug and non-alcohol causes"	"O"	2617450	318857056	820.885080241
+	"2015"	"2015"	"Drug-induced causes"	"D"	362622	321418820	112.819156016
+	"2015"	"2015"	"Alcohol-induced causes"	"A"	64640	321418820	20.110832340
+	"2015"	"2015"	"All other non-drug and non-alcohol causes"	"O"	2703216	321418820	841.026048195
+	"2016"	"2016"	"Drug-induced causes"	"D"	384680	323127513	119.048977423
+	"2016"	"2016"	"Alcohol-induced causes"	"A"	69227	323127513	21.424050016
+	"2016"	"2016"	"All other non-drug and non-alcohol causes"	"O"	2734377	323127513	846.222277581
+	"2017"	"2017"	"Drug-induced causes"	"D"	402564	325719178	123.592354148
+	"2017"	"2017"	"Alcohol-induced causes"	"A"	72371	325719178	22.218832936
+	"2017"	"2017"	"All other non-drug and non-alcohol causes"	"O"	2803479	325719178	860.704308912
+	"2018"	"2018"	"Drug-induced causes"	"D"	408105	327167434	124.738882171
+	"2018"	"2018"	"Alcohol-induced causes"	"A"	74889	327167434	22.890114424
+	"2018"	"2018"	"All other non-drug and non-alcohol causes"	"O"	2828880	327167434	864.658185998
+	"2019"	"2019"	"Drug-induced causes"	"D"	416639	328239523	126.931393329
+	"2019"	"2019"	"Alcohol-induced causes"	"A"	78715	328239523	23.980963438
+	"2019"	"2019"	"All other non-drug and non-alcohol causes"	"O"	2844194	328239523	866.499553133
+"---"
+"https://wonder.cdc.gov/controller/saved/D77/D145F470"
+"Dataset: Multiple Cause of Death, 1999-2019"
+"Query Parameters:"
+"Group By: Year; MCD - Drug/Alcohol Induced"
+"Show Totals: False"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Apr 13, 2021 2:32:28 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2019 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2019, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Apr 13, 2021 2:32:28 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"2. The population figures for year 2019 are bridged-race estimates of the July 1 resident population, from the Vintage 2019"
+"postcensal series released by NCHS on July 9, 2020. The population figures for year 2018 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2018 postcensal series released by NCHS on June 25, 2019. The population figures for"
+"year 2017 are bridged-race estimates of the July 1 resident population, from the Vintage 2017 postcensal series released by NCHS"
+"on June 27, 2018. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2016 postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The"
+"population figures for year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal"
+"series released by NCHS on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13,"
+"2013. Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"3. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
